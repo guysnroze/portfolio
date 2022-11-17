@@ -15,9 +15,11 @@ const About = () => {
           </p>
           <p className='py-2 text-gray-600'>
             I started learn web development technologies in winter 2022 as HTML, CSS, JavaScript, React.
-            Before that, I pre-edited videos and did 3D design. I have always been
+            Before that, I pre-edited videos and did 3D design. I always have been
             interested in the field of design and graphics and I decided to test myself
             in something new.
+            I am distinguished by diligence, stress resistance and a creative approach to business. If I take on a project, I will definitely finish it. I understand documentation well. If I have questions in the process of writing code, then the first thing I turn to is the Internet.
+
           </p>
           <p className='py-2 text-gray-600'> I’m
             passionate about learning new technologies and understand there is
