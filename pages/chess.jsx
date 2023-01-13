@@ -38,7 +38,7 @@ const chesspage = () => {
                         Builded this app with webpack
                     </p>
                     <button className='px-8 py-2 mt-4 mr-8 hover:scale-105 ease-in duration-100'>Demo</button>
-                    <button className='px-8 py-2 mt-4 mr-8 hover:scale-105 ease-in duration-100'><a href='https://github.com/guysnroze/chess-typescript' target="_blank">Code</a></button>
+                    <button className='px-8 py-2 mt-4 mr-8 hover:scale-105 ease-in duration-100'><a href='https://github.com/guysnroze/chess-typescript' rel="noreferrer">Code</a></button>
                 </div>
                 <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
                     <div className='p-2'>

@@ -25,10 +25,10 @@ const weatherpage = () => {
             This app is built with TypeScript.
             The purpose of creating this project was to practice working with API requests, changing the theme using SASS, trying to master Redux.
             The application has two themes dark and light, when you click on the SVG icon on top, the theme changes.
-            To get the API, I used the Weather API service (a full description of how to use it in this project is in the file README.md on my <a className='underline cursor-pointer text-[#5651e5]' target="_blank" href='https://github.com/guysnroze'>github</a>)
+            To get the API, I used the Weather API service (a full description of how to use it in this project is in the file README.md on my <a className='underline cursor-pointer text-[#5651e5]' rel="noreferrer" href='https://github.com/guysnroze'>github</a>)
           </p>
           <button className='px-8 py-2 mt-4 mr-8 hover:scale-105 ease-in duration-100'>Demo</button>
-          <button className='px-8 py-2 mt-4 hover:scale-105 ease-in duration-100'><a href='https://github.com/guysnroze/weather-ts' target='_blank'>Code</a></button>
+          <button className='px-8 py-2 mt-4 hover:scale-105 ease-in duration-100'><a href='https://github.com/guysnroze/weather-ts' rel="noreferrer">Code</a></button>
         </div>
         <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <div className='p-2'>
